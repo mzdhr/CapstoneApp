@@ -11,9 +11,9 @@ Create, organize, plan & realize your ideas!
 * Services, Widgets, Fragments, Custom View, Glide Library, Butterknife Library, Volley Library, JUnit, Espresso UI Testing, Firebase Crashlytics, RecyclerView and CardView, Constraint Layout, SQLite, Object Oriented Design.
 
 ## Screenshots
-| ![preview](../master/preview.png "Reader App")  | ![preview](../master/preview2.png "Reader App")  |
+| ![preview](../master/preview.png "organize ideas app")  | ![preview](../master/preview2.jpg "organize ideas app")  |
 |---------------|----------------|
-| ![preview](../master/preview3.png "Reader App")    |   ![preview](../master/preview4.png "Reader App")   |
+| ![preview](../master/preview3.jpg "organize ideas app")    |   ![preview](../master/preview4.jpg "organize ideas app")   |
 
 ## Authors
 * **Mohammad Laif** - [Mzdhr](https://mzdhr.com)
